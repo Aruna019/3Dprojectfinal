@@ -95,26 +95,6 @@ text = "Activate joystick"
 visible = false
 layout_mode = 2
 bbcode_enabled = true
-text = "[center][b]Coding[/b]
-Ana and Victor Buendía
-
-[b]Level design[/b]
-Ana Buendía
-
-[b]Music[/b]
-Victor Buendía
-
-
-[b]Font[/b]
-Babyhalloween by Project type[/center]
-
-[center][b]Twitter, Github, ItchIO[/b]
-@BuendiaGames
-
-[b]Other resources[/b]
-CC0 SFX by Ajanhallinta, IENBA (freesound) and Dawith (opengameart).
-CC0 texture designed by Freepik.
-[/center]"
 fit_content = true
 
 [node name="howtoplay_text" type="RichTextLabel" parent="backgroundtext/columns/center"]
