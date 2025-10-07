@@ -4,7 +4,7 @@
 [ext_resource type="Script" uid="uid://dy153e2mx1hho" path="res://core/map_elements/mausoleo.gd" id="2_887pc"]
 [ext_resource type="PackedScene" uid="uid://30p5iss8ieah" path="res://3dmodels/crypt-large-roof.glb" id="2_bn787"]
 [ext_resource type="PackedScene" uid="uid://7vijq4erf83o" path="res://3dmodels/crypt-small-entrance-alternative.glb" id="4_kphpg"]
-[ext_resource type="Texture2D" uid="uid://c5gu8mtn6h2v" path="res://3dmodels/Textures/colormap.png" id="7_7vjvv"]
+[ext_resource type="Texture2D" uid="uid://cfvk6ymo5tc2p" path="res://3dmodels/Textures/colormap.png" id="7_7vjvv"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ou63o"]
 resource_name = "colormap"
